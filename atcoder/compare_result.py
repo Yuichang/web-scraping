@@ -1,4 +1,6 @@
-﻿import requests
+# 2人のAtCoderユーザーの名前を入力すると、共通のRatedコンテストを調べて勝敗を出す
+
+import requests
 import time
 import sys
 from collections import defaultdict
